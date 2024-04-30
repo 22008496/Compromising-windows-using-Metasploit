@@ -118,5 +118,55 @@ keyscan_dump Shows the keystrokes captured so far
 
 ![Screenshot 2024-04-28 124812](https://github.com/22008496/Compromising-windows-using-Metasploit/assets/119476113/9c069abc-7f0e-4a6b-ad29-f4af8c53d2cf)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
